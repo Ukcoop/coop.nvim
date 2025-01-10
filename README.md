@@ -43,6 +43,7 @@ this is all if the key commands you can use.
 ## Telescope
 
 leader ff : find files
+
 leader fg : live grep
 
 ## Neo tree
@@ -52,7 +53,9 @@ leader ee : open file tree
 ## lsp config
 
 leader k : hover
+
 leader gd : go to definition
+
 leader ca : code action
 
 ## none-ls
@@ -62,15 +65,19 @@ leader gf : format code
 ## debugger
 
 leader dt : toggle breatpoint
+
 leader dc : continue (starts debugger)
 
 ## git stuff
 
 leader ph : preview hunk
+
 leader lb : current line blame
+
 leader gb : git blame
 
 ## trouble
 
 leader xx : toggle diagnostics
+
 leader xX : toggle diagnostics for buffer
