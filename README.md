@@ -26,6 +26,14 @@ here you will be able to add LSPs from mason.
 
 [list of LSPs](https://github.com/williamboman/mason-lspconfig.nvim?tab=readme-ov-file#available-lsp-servers)
 
+## debugging
+
+the config for the dbugger is lua/plugins/debugging.lua
+
+here you will add your debuggers.
+
+[Debug Adapter installation](https://github.com/mfussenegger/nvim-dap/wiki/Debug-Adapter-installation)
+
 ---
 
 # key maps
@@ -50,3 +58,19 @@ leader ca : code action
 ## none-ls
 
 leader gf : format code
+
+## debugger
+
+leader dt : toggle breatpoint
+leader dc : continue (starts debugger)
+
+## git stuff
+
+leader ph : preview hunk
+leader lb : current line blame
+leader gb : git blame
+
+## trouble
+
+leader xx : toggle diagnostics
+leader xX : toggle diagnostics for buffer

@@ -51,6 +51,7 @@ return {
 				ensure_installed = {
 					"stylua",
 					"ast_grep",
+          "codelldb",
 					"prettier",
 					"eslint_d",
 				},
