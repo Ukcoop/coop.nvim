@@ -46,3 +46,7 @@ leader ee : open file tree
 leader k : hover
 leader gd : go to definition
 leader ca : code action
+
+## none-ls
+
+leader gf : format code
