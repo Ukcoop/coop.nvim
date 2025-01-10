@@ -7,5 +7,5 @@ vim.g.mapleader = ' ';
 
 vim.opt.number = true;
 vim.opt.cursorline = true;
-vim.opt.signcolumn = "yes";
+vim.opt.signcolumn = 'yes';
 vim.opt.swapfile = false;

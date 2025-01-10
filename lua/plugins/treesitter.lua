@@ -12,13 +12,13 @@ return {
       highlight = {
         enable = true,
       },
-      
+
       indent = { enable = true },
-      
+
       autotag = {
         enable = true,
       },
-      
+
       ensure_installed = {
         'json',
         'javascript',
@@ -36,6 +36,7 @@ return {
         'vim',
         'dockerfile',
         'gitignore',
+        'sql',
       },
 
       incremental_selection = {
