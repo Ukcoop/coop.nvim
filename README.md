@@ -21,3 +21,15 @@ the config for LSPs is lua/plugins/lsp-config.lua
 here you will be able to add LSPs from mason.
 
 [list of LSPs](https://github.com/williamboman/mason-lspconfig.nvim?tab=readme-ov-file#available-lsp-servers)
+
+## debugging
+
+the config for the dbugger is lua/plugins/debugging.lua
+
+here you will add your debuggers.
+
+[Debug Adapter installation](https://github.com/mfussenegger/nvim-dap/wiki/Debug-Adapter-installation)
+
+## augment code
+
+i am useing agment code as an ai assistant, you can learn more here: [augment code](https://docs.augmentcode.com/using-augment/vim-neovim)
